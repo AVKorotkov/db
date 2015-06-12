@@ -205,14 +205,14 @@ mysql> SELECT
     -> id AS `#`,
     -> name AS `Name`
     -> FROM hob;
-+---+------------------+
-| # | Name             |
-+---+------------------+
-| 1 | Bilbo Baggins    |
-| 2 | Frodo Baggins    |
-| 3 | Samwise Gamgee   |
-| 4 | Peregrin Took    |
-+---+------------------+
++---+----------------+
+| # | Name           |
++---+----------------+
+| 1 | Bilbo Baggins  |
+| 2 | Frodo Baggins  |
+| 3 | Samwise Gamgee |
+| 4 | Peregrin Took  |
++---+----------------+
 4 rows in set (0.00 sec)
 ```
 
