@@ -224,12 +224,10 @@ mysql> SELECT
 
 1.Предварительно в `MySQL monitor` создать БД (пример ниже для того же
   седьмого варианта):
-
 ```text
 mysql> CREATE DATABASE db07;
 Query OK, 1 row affected (0.00 sec)
 ```
-
   (после чего можно покинуть `MySQL monitor`).
 2.После запуска `MySQL Workbench` произвести двойной щелчок на
   созданном ранее соединении `localhost`: оно расположено на стартовом
