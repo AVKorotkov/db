@@ -5154,7 +5154,7 @@ end
 . Программный интерфейс.
 
 [bibliography]
-== Источники
+== Список литературы
 
 * [[[connolly2015,1]]] Connolly T. M., Begg C. E. Database systems. 6th edition, global edition. Pearson, 2015.
 * [[[date2004,2]]] Date C. J. An introduction to database systems. 8th edition. Pearson/Addison Wesley, 2004.

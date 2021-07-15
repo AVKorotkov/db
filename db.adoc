@@ -5164,5 +5164,13 @@ end
 
 [arabic]
 . bibitem:[connolly2015]
+. bibitem:[date2004]
+. bibitem:[date_2019]
 . bibitem:[garcia-molina2009]
+. bibitem:[kroenke2020]
 . bibitem:[Kuznetsov2007]
+. bibitem:[Groff2018]
+. bibitem:[Date2019]
+. bibitem:[Digo2005]
+. bibitem:[Kuznetsov2007]
+. bibitem:[Ullman2017]
