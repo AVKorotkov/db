@@ -7,6 +7,7 @@
 :bibliography-style: gost-r-7-0-5-2008-numeric
 :bibliography-locale: ru-RU
 :bibliography-hyperlinks: true
+:toc:
 
 Коротков А. В.
 

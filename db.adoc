@@ -8,6 +8,7 @@
 :bibtex-style: gost-r-7-0-5-2008-numeric
 :bibtex-locale: ru-RU
 :bibtex-format: asciidoc
+:toc:
 
 Коротков А. В.
 

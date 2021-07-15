@@ -3,6 +3,7 @@
 :source-highlighter: pygments
 :pygments-style: emacs
 :pygments-linenums-mode: inline
+:toc:
 
 Коротков А. В.
 
