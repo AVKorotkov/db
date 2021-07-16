@@ -4,6 +4,7 @@
 :pygments-style: emacs
 :pygments-linenums-mode: inline
 :toc:
+:toc-title: Содержание
 
 Коротков А. В.
 

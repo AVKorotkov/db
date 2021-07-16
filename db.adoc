@@ -9,6 +9,7 @@
 :bibtex-locale: ru-RU
 :bibtex-format: asciidoc
 :toc:
+:toc-title: Содержание
 
 Коротков А. В.
 
