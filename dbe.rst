@@ -5075,69 +5075,72 @@ Comma-Separated Values, т. е. значения, разделённые зап
 
 #. Программный интерфейс.
 
+Список литературы
+=================
+
 .. container:: references csl-bib-body
    :name: refs
 
    .. container:: csl-entry
       :name: ref-connolly2015
 
-      1. Connolly T. M., Begg C. E. Database systems: A practical approach
-      to design, implementation, and management. 6th edition, global edition.
-      Pearson, 2015. 1440 p.
-
-   .. container:: csl-entry
-      :name: ref-garcia-molina2009
-
-      2. Garcia-Molina H., Ullman J. D., Widom J. Database systems: The
-      complete book. 2nd edition. Pearson Prentice Hall, 2009. 1248 p.
-
-   .. container:: csl-entry
-      :name: ref-date2004
-
-      3. Date C. J. An introduction to database systems. 8th edition.
-      Pearson/Addison Wesley, 2004. 1040 p.
-
-   .. container:: csl-entry
-      :name: ref-date_2019
-
-      4. Date C. J. Database design and relational theory: Normal forms
-      and all that jazz. 2nd edition. Apress, 2019. 470 p.
+      #. Connolly T. M., Begg C. E. Database systems : A practical approach
+      to design, implementation, and management. — 6th edition, global
+      edition. — Pearson, 2015. — 1440 p. — (Always learning).
 
    .. container:: csl-entry
       :name: ref-kroenke2020
 
-      5. Kroenke D. M. et al. Database concepts. 9th edition. Pearson,
-      2020. 552 p.
+      #. Database concepts / D. M. Kroenke [et al.]. — 9th edition. — Pearson,
+      2020. — 552 p.
 
    .. container:: csl-entry
-      :name: ref-Kuznetsov2007
+      :name: ref-date2004
 
-      6. Кузнецов С. Д. Основы баз данных: курс лекций: учебное пособие
-      для вузов рек. по спец. в области информационных технологий. 2-е
-      издание, исправленное. М.: Интернет-Ун-т Информ. Технологий, 2007.
-      488 с.
+      #. Date C. J. An introduction to database systems. — 8th
+      edition. — Pearson/Addison Wesley, 2004. — 1040 p.
 
    .. container:: csl-entry
-      :name: ref-Digo2005
+      :name: ref-date_2019
 
-      7. Диго С. М. Базы данных: проектирование и использование: учебник
-      для вузов по специальности «Прикладная информатика (по областям)»
-      рек. МО РФ. М.: Финансы и статистика, 2005. 592 с.
-
-   .. container:: csl-entry
-      :name: ref-Date2019
-
-      8. Дейт К. Дж. Введение в системы баз данных. 8-е издание. М.:
-      Диалектика, 2019. 1328 с.
+      #. Date C. J. Database design and relational theory : Normal forms
+      and all that jazz. — 2nd edition. — Apress, 2019. — 470 p.
 
    .. container:: csl-entry
-      :name: ref-Ullman2017
+      :name: ref-garcia-molina2009
 
-      9. Ульман Д. Д., Уидом Д., Гарсиа-Молина Г. Системы баз данных:
-      Полный курс. М. и др.: Вильямс, 2017. 1088 с.
+      #. Garcia-Molina H., Ullman J. D., Widom J. Database systems : The
+      complete book. — 2nd edition. — Pearson Prentice Hall, 2009. — 1248 p.
 
    .. container:: csl-entry
       :name: ref-Groff2018
 
-      10. Грофф Д. Р., Вайнберг П. Н., Оппель Э. Дж. SQL. Полное
-      руководство. 3-е издание. М. и др.: Вильямс, 2018. 960 с.
+      #. Грофф Д. Р., Вайнберг П. Н., Оппель Э. Дж. SQL. Полное
+      руководство. — 3-е издание. — М. и др.: Вильямс, 2018. — 960 с. — (Полный справочник).
+
+   .. container:: csl-entry
+      :name: ref-Date2019
+
+      #. Дейт К. Дж. Введение в системы баз данных. — 8-е издание. — М.:
+      Диалектика, 2019. — 1328 с.
+
+   .. container:: csl-entry
+      :name: ref-Digo2005
+
+      #. Диго С. М. Базы данных : проектирование и использование : учебник
+      для вузов по специальности «Прикладная информатика (по областям)»
+      рек. МО РФ. — М.: Финансы и статистика, 2005. — 592 с.
+
+   .. container:: csl-entry
+      :name: ref-Kuznetsov2007
+
+      #. Кузнецов С. Д. Основы баз данных : курс лекций : учебное пособие
+      для вузов рек. по спец. в области информационных технологий. 2-е
+      издание, исправленное. — М.: Интернет-Ун-т Информ. Технологий,
+      2007. — 488 с. — (Основы информационных технологий).
+
+   .. container:: csl-entry
+      :name: ref-Ullman2017
+
+      #. Ульман Д. Д., Уидом Д., Гарсиа-Молина Г. Системы баз данных :
+      Полный курс. — М. и др.: Вильямс, 2017. — 1088 с.
