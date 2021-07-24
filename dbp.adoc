@@ -7,7 +7,7 @@
 :bibliography-database: db.bib
 :bibliography-style: gost-r-7-0-5-2008-numeric
 :bibliography-locale: ru-RU
-:bibliography-hyperlinks: true
+:bibliography-hyperlinks: false
 :toc:
 :toc-title: Содержание
 
@@ -3759,7 +3759,7 @@ mysql> (SELECT
 Отметим, что таблица с консолидированным результатом имеет те заголовки, что мы
 определили для первого запроса.
 
-При использования данной операции, объединяемые запросы должны удовлетворять
+При использования данной операции объединяемые запросы должны удовлетворять
 следующим условиям:
 
 [arabic]
@@ -5165,7 +5165,15 @@ end
 
 == Список литературы
 
-nocite:[connolly2015]+[date2004]+[date_2019]+[garcia-molina2009]+[kroenke2020]
-nocite:[Groff2018]+[Date2019]+[Digo2005]+[Kuznetsov2007]+[Ullman2017]
+nocite:[connolly2015]
+nocite:[date2004]
+nocite:[date_2019]
+nocite:[garcia-molina2009]
+nocite:[kroenke2020]
+nocite:[Groff2018]
+nocite:[Date2019]
+nocite:[Digo2005]
+nocite:[Kuznetsov2007]
+nocite:[Ullman2017]
 
 bibliography::[]
